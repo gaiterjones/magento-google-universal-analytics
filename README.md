@@ -20,6 +20,8 @@ This module updates the core Google Analytics code to allow older Magento 1.3.x 
 
 Copy the files to your Magento application folder. In Magento admin goto Google API -> Google Analytics and make sure your Google ID and domain name are saved.
 
+Note, this module does not support tracking Google Checkout payment methods.
+
  
 
 ## License
