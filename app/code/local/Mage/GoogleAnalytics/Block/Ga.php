@@ -214,7 +214,7 @@ class Mage_GoogleAnalytics_Block_Ga extends Mage_Core_Block_Text
     $this->_getOrdersTrackingCode(). '
 //]]>
 </script>
-<!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
+<!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
 ');
 		
         return parent::_toHtml();
